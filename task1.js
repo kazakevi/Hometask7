@@ -16,3 +16,12 @@ function arInvert(ar){
 let ar = [1,2,3,4,5,6];
 arInvert(ar);
 console.log(ar);
+
+// или так
+// function arInvert2(ar){
+//     let arReversed = ar.reverse();
+//     return arReversed;
+// }
+
+// let ar = [1,2,3,4,5,6];
+// console.log(arInvert2());
